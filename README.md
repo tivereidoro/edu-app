@@ -20,7 +20,7 @@ School application development with React. This project demonstrates my frontend
 ---
 
 ## Project Description
-.. yada yada fishpace.
+.. yada yada fishpace..
 
 ## Technologies used
 
