@@ -36,7 +36,7 @@ School application development with React. This project demonstrates my frontend
 
 ## AUTHOR 👨🏽‍💻:
 
-_[Tivere IDORO](https://tivereidoro.bio.link)_ -- _[Github](https://github.com/tivereidoro)_ | _[Linkedin](https://www.linkedin.com/in/tivereidoro)_ | _[Bio](https://tivereidoro.bio.link)._
+_[Tivere IDORO](https://tivereidoro.bio.link)_ -- _[Github](https://github.com/tivereidoro)_  |  _[Linkedin](https://www.linkedin.com/in/tivereidoro)_  |  _[Bio](https://tivereidoro.bio.link)._
 
 <hr>
 
